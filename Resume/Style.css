@@ -62,7 +62,7 @@ a {
     margin: 0 auto;
     display: grid;
     padding: 5rem;
-    background-color: #070707;
+    background-color: gray;
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
 }
